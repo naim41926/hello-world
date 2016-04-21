@@ -16,14 +16,15 @@ If I had 150 million I would buy a west coast primary residence,
 an east coast loft, a rural farm house, and nice place to vacation.
 
 ##Cars
-*Classics
-	*{ford,ferrari,chevy}
-*Supers
-	*{berlinetta,gt,918,675lt,apollo}
-*Bikes
-{ Ducati Streetfighter, Panigale, Classic, Custom Build}
-*Work
-{Mercedes,Audi,Tesla}
-*Yacht, 
-Plane
-*{Baron G58, Piper M2800}
+* Classics
+	* {ford,ferrari,chevy}
+* Supers
+	* {berlinetta,gt,918,675lt,apollo}
+* Bikes
+	* { Ducati Streetfighter, Panigale, Classic, Custom Build}
+* Work
+	*{Mercedes,Audi,Tesla}
+* Yacht
+
+*Plane
+	*{Baron G58, Piper M2800}
