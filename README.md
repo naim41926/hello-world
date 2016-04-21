@@ -23,8 +23,8 @@ an east coast loft, a rural farm house, and nice place to vacation.
 * Bikes
 	* { Ducati Streetfighter, Panigale, Classic, Custom Build}
 * Work
-	*{Mercedes,Audi,Tesla}
+	* {Mercedes,Audi,Tesla}
 * Yacht
 
-*Plane
-	*{Baron G58, Piper M2800}
+* Plane
+	* {Baron G58, Piper M2800}
